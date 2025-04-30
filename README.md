@@ -1,4 +1,4 @@
-[![MasterHead]([https://miro.medium.com/v2/resize:fit:1100/format:webp/1*57__j14aNQfmPZyFoS1yRg.png](https://erphaber.com.tr/wp-content/uploads/2019/02/programminglanguages-600.png))
+[![MasterHead](https://weebgroup.com/1/images/-86f17854f6424ddaa73d736fdfce3afb.png)
 <h1 align="center">Hi 👋, I'm Serkan Acar</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
