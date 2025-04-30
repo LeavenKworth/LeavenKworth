@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leavenkworth&show_icons=true&locale=en" alt="leavenkworth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leavenkworth&" alt="leavenkworth" /></p>
+
+![snake gif](https://github.com/LeavenKworth/LeavenKworth/blob/output/github-contribution-grid-snake.gif)
