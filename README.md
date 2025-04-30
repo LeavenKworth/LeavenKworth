@@ -1,4 +1,4 @@
-[![MasterHead](https://weebgroup.com/1/images/-86f17854f6424ddaa73d736fdfce3afb.png)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:605/0*TivrYUJ7f-RywS7C.png)
 <h1 align="center">Hi 👋, I'm Serkan Acar</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
