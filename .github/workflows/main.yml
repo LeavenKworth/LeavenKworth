@@ -2,17 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
+    
     - cron: "0 0 * * *"
+  
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -23,7 +27,7 @@ jobs:
             dist/github-snake.gif
 
       - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v5
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
