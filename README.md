@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Serkan Acar</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Backend**
+* 🔭 I’m currently working on **Backend Development & Microservices**
 
-- 🌱 I’m currently learning **Spring Boot(Java)**
+* 🌱 I’m currently learning **.NET, React & Cloud Technologies**
 
 - 💬 Ask me about **Software Topics**
 
